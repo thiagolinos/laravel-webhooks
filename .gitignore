@@ -4,3 +4,10 @@
 /bootstrap/cache
 /storage/*.key
 .DS_Store
+
+git add src/Controllers/WebhookController.php
+git add src/Models/Webhook.php
+git add database/migrations/
+git add routes/web.php
+git add README.md
+git add composer.json
